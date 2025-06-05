@@ -1,4 +1,5 @@
 # Analysis of shared vulnerabilities in Acral Melanoma cell lines AM007 and AM016
+This repository is a sub-analysis and is included with other analyses in the [Acral Melanoma PDX models from Latin America](https://github.com/team113sanger/Acral_Melanoma_PDX_models_from_Latin_America) parent repository.
 
 ## Overview
 Analysis to identify shared vulnerabilities between Acral Melanoma cell lines AM007 and AM016 from CRISPR data.
@@ -60,6 +61,8 @@ tree -L 2
   - `tidyverse` version `2.0.0` [**here**](https://github.com/tidyverse/tidyverse)
   - `ggrepel` version `0.9.6` [**here**](https://github.com/slowkow/ggrepel)
   - `ggVennDiagram` version `1.5.2` [**here**](https://github.com/gaospecial/ggVennDiagram)
+  
+  If you'd like to reproduce the R environment using `renv` please refer to the official documentation. [**here**](https://rstudio.github.io/renv/reference/index.html)
 
 # Contact
   If you have any questions or comments about this repository, please contact:
